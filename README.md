@@ -5,6 +5,7 @@ This Java code implements a simulation of a school environment using Object-Orie
 How to Run:
 
 Compile the Java code: javac askisi4.java
+
 Run the simulation with command-line arguments: java askisi4 [arguments]
 
 Replace [arguments] with the necessary values for Cclass, Lj, Ls, Lt, and N
